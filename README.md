@@ -33,11 +33,17 @@ I'm learning NumPy as part of my preparation for real-world **AI/ML projects**, 
 - 📚 NumPy
 - ☁️ Google Colab
   
-## 📎 How to Use
+## 📁 Files
 
-- Click on any `numpy1.ipynb` file
-- Use the **"Open in Colab"** button (or manually upload to Google Colab)
-- Run cells to test and learn interactively
+- `numpy1.ipynb` – Main notebook
+- `README.md` – Project description
+
+---
+
+## 🧠 Source of Learning
+
+📺 Learned from: **[Siddhardhan]**
+
 
 ---
 
