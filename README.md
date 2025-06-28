@@ -42,7 +42,7 @@ I'm learning NumPy as part of my preparation for real-world **AI/ML projects**, 
 
 ## 🧠 Source of Learning
 
-📺 Learned from: **[Siddhardhan]**
+📺 Learned from Youtube Channel: **[Siddhardhan]**
 
 
 ---
